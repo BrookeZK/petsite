@@ -1,0 +1,32 @@
+h1 {
+  color: blue;
+  font-family: sans-serif;
+  font-size: 125px;
+}
+
+h2 {
+  font-family: fantasy;
+  color: red;
+  font-size: 50px;
+}
+
+h3 {
+  font-style: italic;
+  font-family: monospace;
+  font-size: 40px;
+}
+
+body {
+  background-image: url(../img/sparkle.gif);
+  color: white;
+
+}
+
+html {
+  color: red;
+  text-align: center;
+}
+
+ol {
+  font-style: oblique;
+}
